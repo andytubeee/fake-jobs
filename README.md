@@ -1,5 +1,5 @@
-# Real Python, Fake Jobs
+# Fake Jobs
 
-A fake job board for your Real Python web scraping training.
+Fork from [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 
-This site is used as an example for a static site in the [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/) tutorial.
+A fake job board for web scraping workshop.
